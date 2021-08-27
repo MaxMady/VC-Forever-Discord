@@ -1,6 +1,6 @@
 # VC-Forever-Discord
 **Information**
-The repository contains the script, used for making a discord.js bot join a VC and stay until you wish to. Note that this is discord.js v12, not v13 as v13 is hard for begginers to understand at starting, (There isnt much guidance about it.)
+The repository contains the script, used for making a discord.js bot join a VC and stay until you wish to. Note that this is discord.js v12, not v13 as v13 is hard for beginners to understand at starting, (There isn't much guidance about it.)
 
 **Support**
 If you need any help regarding to the following, feel free to ask it to me! I may not reply in DMs so you may have to ask in the [server](https://discord.gg/darkdomain) itself
@@ -17,4 +17,4 @@ Main error while running the bot would be the VC joining, inorder to fix that ma
 1. If the bot says cannot connect to the channel, then give the bot ADMINISTRATOR permissions and try.
 2. If there is run button configuration problem, then reload the page and enter `node.js` in language and `npm start` below
 
-Discord server: https://discord.gg/A6zDzpUp7c
+#Discord-server:-https://discord.gg/A6zDzpUp7c
