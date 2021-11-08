@@ -1,6 +1,4 @@
 # VC-Forever-Discord
-**Information**
-The repository contains the script, used for making a discord.js bot join a VC and stay until you wish to. Note that this is discord.js v12, not v13 as v13 is hard for beginners to understand at starting, (There isn't much guidance about it.)
 
 **Support**
 If you need any help regarding to the following, feel free to ask it to me! I may not reply in DMs so you may have to ask in the [server](https://discord.gg/darkdomain) itself
